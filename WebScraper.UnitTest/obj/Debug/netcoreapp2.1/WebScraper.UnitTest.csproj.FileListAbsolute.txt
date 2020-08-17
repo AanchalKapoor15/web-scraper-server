@@ -1,0 +1,17 @@
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.UnitTest.deps.json
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.UnitTest.runtimeconfig.json
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.UnitTest.runtimeconfig.dev.json
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.UnitTest.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.pdb
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.csprojAssemblyReference.cache
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.AssemblyInfo.cs
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.csproj.CopyComplete
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\bin\Debug\netcoreapp2.1\WebScraper.UnitTest.pdb
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.dll
+C:\Users\Naveen.Malhotra\Downloads\web-scraper-server-original\web-scraper-server\WebScraper.UnitTest\obj\Debug\netcoreapp2.1\WebScraper.UnitTest.pdb
